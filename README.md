@@ -1,4 +1,4 @@
-# Time Series Forecasting
+# French Bakery Time Series Forecasting
 Source: https://www.youtube.com/watch?v=fxx_E0ojKrc </br>
 Streamlit tutorial: https://www.youtube.com/watch?v=d7fnzDQ5qM8 </br>
 
