@@ -120,3 +120,13 @@ This project implements time series forecasting for a French bakery's product sa
 
 ## Conclusion
 The current implementation provides solid foundations for time series forecasting of bakery sales. The Streamlit app will make this functionality accessible to non-technical users, enabling data-driven inventory planning and business decision making.
+
+# Create and activate virtual environment
+python -m venv .venv
+source .venv/bin/activate  # On macOS/Linux
+
+# Install all dependencies at once
+pip install -r requirements.txt
+
+# Run the project
+python main.py
